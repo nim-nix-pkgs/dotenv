@@ -11,7 +11,6 @@
   inputs.src-dotenv-main.ref   = "refs/heads/main";
   inputs.src-dotenv-main.owner = "euantorano";
   inputs.src-dotenv-main.repo  = "dotenv.nim";
-  inputs.src-dotenv-main.dir   = "";
   inputs.src-dotenv-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
