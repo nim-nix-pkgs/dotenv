@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "2_0_0",
-        "lastModified": 1652791406,
-        "narHash": "sha256-u1Dyazwu7pyPeRw2GLQFLPNfM9ka53sSqdGP5OUotAA=",
+        "lastModified": 1652796885,
+        "narHash": "sha256-jXM2OvrXHDaRDfgsNCj70jeTVdDEiMFC+Rgwb3zXzfk=",
         "owner": "nim-nix-pkgs",
         "repo": "dotenv",
-        "rev": "fe9304c9eb2288e03c8e2cc6aedaed0c2c1c4623",
+        "rev": "c146edfeaaf7d6959d9595ca476e541605bd6f2e",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "2_0_1",
-        "lastModified": 1652791406,
-        "narHash": "sha256-u1Dyazwu7pyPeRw2GLQFLPNfM9ka53sSqdGP5OUotAA=",
+        "lastModified": 1652796885,
+        "narHash": "sha256-jXM2OvrXHDaRDfgsNCj70jeTVdDEiMFC+Rgwb3zXzfk=",
         "owner": "nim-nix-pkgs",
         "repo": "dotenv",
-        "rev": "fe9304c9eb2288e03c8e2cc6aedaed0c2c1c4623",
+        "rev": "c146edfeaaf7d6959d9595ca476e541605bd6f2e",
         "type": "github"
       },
       "original": {
@@ -66,11 +66,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1652791406,
-        "narHash": "sha256-u1Dyazwu7pyPeRw2GLQFLPNfM9ka53sSqdGP5OUotAA=",
+        "lastModified": 1652796885,
+        "narHash": "sha256-jXM2OvrXHDaRDfgsNCj70jeTVdDEiMFC+Rgwb3zXzfk=",
         "owner": "nim-nix-pkgs",
         "repo": "dotenv",
-        "rev": "fe9304c9eb2288e03c8e2cc6aedaed0c2c1c4623",
+        "rev": "c146edfeaaf7d6959d9595ca476e541605bd6f2e",
         "type": "github"
       },
       "original": {
@@ -93,11 +93,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1652791406,
-        "narHash": "sha256-u1Dyazwu7pyPeRw2GLQFLPNfM9ka53sSqdGP5OUotAA=",
+        "lastModified": 1652796885,
+        "narHash": "sha256-jXM2OvrXHDaRDfgsNCj70jeTVdDEiMFC+Rgwb3zXzfk=",
         "owner": "nim-nix-pkgs",
         "repo": "dotenv",
-        "rev": "fe9304c9eb2288e03c8e2cc6aedaed0c2c1c4623",
+        "rev": "c146edfeaaf7d6959d9595ca476e541605bd6f2e",
         "type": "github"
       },
       "original": {
@@ -120,11 +120,11 @@
       },
       "locked": {
         "dir": "v1_0_3",
-        "lastModified": 1652791406,
-        "narHash": "sha256-u1Dyazwu7pyPeRw2GLQFLPNfM9ka53sSqdGP5OUotAA=",
+        "lastModified": 1652796885,
+        "narHash": "sha256-jXM2OvrXHDaRDfgsNCj70jeTVdDEiMFC+Rgwb3zXzfk=",
         "owner": "nim-nix-pkgs",
         "repo": "dotenv",
-        "rev": "fe9304c9eb2288e03c8e2cc6aedaed0c2c1c4623",
+        "rev": "c146edfeaaf7d6959d9595ca476e541605bd6f2e",
         "type": "github"
       },
       "original": {
@@ -147,11 +147,11 @@
       },
       "locked": {
         "dir": "v1_0_4",
-        "lastModified": 1652791406,
-        "narHash": "sha256-u1Dyazwu7pyPeRw2GLQFLPNfM9ka53sSqdGP5OUotAA=",
+        "lastModified": 1652796885,
+        "narHash": "sha256-jXM2OvrXHDaRDfgsNCj70jeTVdDEiMFC+Rgwb3zXzfk=",
         "owner": "nim-nix-pkgs",
         "repo": "dotenv",
-        "rev": "fe9304c9eb2288e03c8e2cc6aedaed0c2c1c4623",
+        "rev": "c146edfeaaf7d6959d9595ca476e541605bd6f2e",
         "type": "github"
       },
       "original": {
@@ -174,11 +174,11 @@
       },
       "locked": {
         "dir": "v1_1_0",
-        "lastModified": 1652791406,
-        "narHash": "sha256-u1Dyazwu7pyPeRw2GLQFLPNfM9ka53sSqdGP5OUotAA=",
+        "lastModified": 1652796885,
+        "narHash": "sha256-jXM2OvrXHDaRDfgsNCj70jeTVdDEiMFC+Rgwb3zXzfk=",
         "owner": "nim-nix-pkgs",
         "repo": "dotenv",
-        "rev": "fe9304c9eb2288e03c8e2cc6aedaed0c2c1c4623",
+        "rev": "c146edfeaaf7d6959d9595ca476e541605bd6f2e",
         "type": "github"
       },
       "original": {
@@ -201,11 +201,11 @@
       },
       "locked": {
         "dir": "v1_1_1",
-        "lastModified": 1652791406,
-        "narHash": "sha256-u1Dyazwu7pyPeRw2GLQFLPNfM9ka53sSqdGP5OUotAA=",
+        "lastModified": 1652796885,
+        "narHash": "sha256-jXM2OvrXHDaRDfgsNCj70jeTVdDEiMFC+Rgwb3zXzfk=",
         "owner": "nim-nix-pkgs",
         "repo": "dotenv",
-        "rev": "fe9304c9eb2288e03c8e2cc6aedaed0c2c1c4623",
+        "rev": "c146edfeaaf7d6959d9595ca476e541605bd6f2e",
         "type": "github"
       },
       "original": {
